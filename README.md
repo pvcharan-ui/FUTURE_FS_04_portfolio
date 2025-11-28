@@ -6,8 +6,14 @@ A clean, modern, and fully responsive **portfolio website** built using
 
 ---
 
-## 🚀 Live Preview / Project Link  
-🔗 **GitHub Repository:**  
+## 🚀 Live Portfolio Link  
+🔗 **Portfolio Website:**  
+(http://localhost/FUTURE_FS_04/index.php)
+
+---
+
+## 📦 GitHub Repository  
+🔗 **Project Source Code:**  
 https://github.com/pvcharan-ui/FUTURE_FS_04_Portfolio
 
 ---
@@ -18,8 +24,9 @@ https://github.com/pvcharan-ui/FUTURE_FS_04_Portfolio
 - About, Skills, Projects, and Contact sections  
 - Contact form with **PHP & MySQL backend**  
 - Database insertion using prepared statements  
-- Clean folder structure with PHP includes (header & footer)  
-- Smooth animations & modern gradient UI  
+- Clean folder structure with PHP includes  
+- Smooth animations & modern gradients  
+- Fully modular file structure  
 
 ---
 
@@ -31,12 +38,12 @@ https://github.com/pvcharan-ui/FUTURE_FS_04_Portfolio
 
 ### **Backend:**  
 - PHP  
-- MySQL (phpMyAdmin via XAMPP)
+- MySQL (via phpMyAdmin)
 
-### **Tools Used:**  
+### **Tools:**  
+- XAMPP  
 - VS Code  
 - Git & GitHub  
-- XAMPP (Apache & MySQL)
 
 ---
 
